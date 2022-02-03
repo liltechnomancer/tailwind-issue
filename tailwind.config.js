@@ -7,9 +7,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        'block-blue': '#1030AD',
-      },
       typography: ({ theme }) => ({
         slate: {
           css: {},
