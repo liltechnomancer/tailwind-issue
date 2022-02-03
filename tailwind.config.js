@@ -43,8 +43,8 @@ module.exports = {
         },
         DEFAULT: {
           css: {
-            '--tw-prose-links': theme('colors.yellow[400]'),
-            '--tw-prose-invert-links': theme('colors.yellow[400]'),
+            '--tw-prose-links': theme('colors.red[400]'),
+            '--tw-prose-invert-links': theme('colors.blue[400]'),
             a: {
               textDecoration: 'none',
             },
