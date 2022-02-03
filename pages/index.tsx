@@ -51,6 +51,16 @@ export default function Home() {
           <a>This should be green</a>
         </div>
       </div>
+      <div className="prose prose-xl !prose-invert prose-slate mt-5 bg-slate-900">
+        <h1>Hi there, I would like to show you some bugs.</h1>
+        <p>
+          The way prose-invert behaves and the way CSS variables are assigned in
+          production have me experiencing some issues.
+        </p>
+        <a>This should be green</a>
+      </div>
     </div>
   )
 }
+
+//
