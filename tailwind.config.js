@@ -14,26 +14,7 @@ module.exports = {
         tiny: '300px',
         tablet: '640px',
       },
-      fontFamily: {
-        display: ['azo-sans-web'],
-        sans: [
-          'azo-sans-web',
-          'system-ui',
-          '-apple-system',
-          'BlinkMacSystemFont',
-          '"Segoe UI"',
-          'Roboto',
-          '"Helvetica Neue"',
-          'Arial',
-          '"Noto Sans"',
-          'serif',
-          '"Apple Color Emoji"',
-          '"Segoe UI Emoji"',
-          '"Segoe UI Symbol"',
-          '"Noto Color Emoji"',
-        ],
-        azo: ['azo-sans-web', 'sans-serif'],
-      },
+
       typography: ({ theme }) => ({
         slate: {
           css: {},
