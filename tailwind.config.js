@@ -10,11 +10,6 @@ module.exports = {
       colors: {
         'block-blue': '#1030AD',
       },
-      screens: {
-        tiny: '300px',
-        tablet: '640px',
-      },
-
       typography: ({ theme }) => ({
         slate: {
           css: {},
